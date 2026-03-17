@@ -17,8 +17,8 @@ public class Producto {
 	public String getMarca() {
 		return marca;
 	}
-	public void setNombre(String marca) {
-		this.nombre = marca;
+	public void setMarca(String marca) {
+		this.marca = marca;
 	}
 	public Double getPrecio() {
 		return precio;
