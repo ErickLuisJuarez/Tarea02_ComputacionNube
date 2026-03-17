@@ -38,6 +38,6 @@ El servicio se iniciará en http://localhost:8002
 A continuación se muestran las pruebas de ejecución probando la eliminación de un producto y un item.
 
 ## Corrida 1: Eliminación utilizando RestTemplate
-
+![Lista antes de hacer la primera eliminación](imagenes/ListAntesDe1raEliminacion.png)
 
 ## Corrida 2: Eliminación utilizando Feign
