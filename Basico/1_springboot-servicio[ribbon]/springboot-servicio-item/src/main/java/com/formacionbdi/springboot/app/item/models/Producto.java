@@ -5,7 +5,7 @@ import java.util.Date;
 public class Producto {
 	
 	private Long id;
-	private String nombre;
+	private String marca;
 	private Double precio;
 	private Date createAt;
 	public Long getId() {
@@ -14,11 +14,11 @@ public class Producto {
 	public void setId(Long id) {
 		this.id = id;
 	}
-	public String getNombre() {
-		return nombre;
+	public String getMarca() {
+		return marca;
 	}
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
+	public void setNombre(String marca) {
+		this.nombre = marca;
 	}
 	public Double getPrecio() {
 		return precio;
